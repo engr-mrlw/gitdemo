@@ -2,3 +2,4 @@ another git config file
 for pull
 
 adding additional configuration
+found a couple of more config values that are needed
