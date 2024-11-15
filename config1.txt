@@ -1,0 +1,2 @@
+another git config file
+for pull
